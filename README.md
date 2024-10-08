@@ -1,9 +1,9 @@
 # packageName
 
 <!-- automd:badges color=yellow -->
-
-[![npm version](https://img.shields.io/npm/v/packageName?color=yellow)](https://npmjs.com/package/packageName)
-[![npm downloads](https://img.shields.io/npm/dm/packageName?color=yellow)](https://npmjs.com/package/packageName)
+[![codecov](https://codecov.io/github/trudbot/ts-pattern-matching/branch/main/graph/badge.svg?token=7cd2e676-daa8-49a4-8404-4ab3775d5fe7)](https://app.codecov.io/github/trudbot/easy-map)
+![GitHub top language](https://img.shields.io/github/languages/top/trudbot/ts-pattern-matching)
+<!-- ![NPM Version](https://img.shields.io/npm/v/%40trudbot%2Fmap) -->
 
 <!-- /automd -->
 
